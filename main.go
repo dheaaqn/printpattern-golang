@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	printPattern(num)
+	printPattern(5)
 }
 
 func printPattern(num int) {
